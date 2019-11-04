@@ -3,7 +3,7 @@ spring:
     name: api-zuul
 
 server:
-  port: 8769
+  port: 8757
 
 eureka:
   client:
